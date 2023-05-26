@@ -1,0 +1,1 @@
+# swc-minify-example
